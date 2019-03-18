@@ -8,8 +8,11 @@ A web demo of visualizing path planning.
 
 3. `run routes.py` in 'server' folder path   
 
-4. In terminal, cd to 'client' folder path, then `npm run dev`. 4. Open your browser(Chrome is recommended), visit 'http://localhost:8081'. 
-- (Tips: make sure your internet ports: 5000 and 8081 are not in use)
+4. In terminal, cd to 'client' folder path, then `npm run dev`. 
+
+5. Open your browser(Chrome is recommended), visit 'http://localhost:8081'. 
+
+(Tips: make sure your internet ports: 5000 and 8081 are not in use)
 
 ## UI
 <img src="https://github.com/Angericky/DeliveryGo/blob/master/outlook.png" alt="outlook" title="outlook" width="900" />
