@@ -12,4 +12,5 @@ A web demo of visualizing path planning.
 - (Tips: make sure your internet ports: 5000 and 8081 are not in use)
 
 ## UI
-![outlook of this web](https://github.com/Angericky/DeliveryGo/edit/master/outlook.png "outlook")
+![outlook of this web](https://github.com/Angericky/DeliveryGo/blob/master/outlook.png "outlook")
+<img src="https://github.com/Angericky/DeliveryGo/blob/master/outlook.png" alt="outlook" title="outlook" width="900" />
