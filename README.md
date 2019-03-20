@@ -2,6 +2,9 @@
 # Description
 A web demo of visualizing path planning developed in google girl hackthon V.
 
+## personal thoughts
+[jingjing's experience sharing about google girl hackthon 2019](https://angericky.github.io/2019/03/18/%E8%AE%B0google-girl-hackthon%E7%BB%8F%E5%8E%86/)
+
 ## Language
 Front end: Vue.js, Vuetify, Webpack, Nodejs, Javascript, html, css 
 Back end: Python
