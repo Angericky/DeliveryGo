@@ -10,12 +10,6 @@ Front end: Vue.js, Vuetify, Webpack, Nodejs, Javascript, html, css
 Back end: Python
 Algorithm: C++
 
-## Team members:
-Qilu Zhong, Zhejiang University.(Algorithm)
-Xuewei Wang, Zhejiang University.(Back end and algorithm)
-Qianqian Wu, Zhejiang University.(Algorithm)
-Jingjing Zhao(me), East China Normal University.(Front end and back end interface)
-Si Li, East China Normal University.(Algorithm)
 
 ## Install:
 1. Open terminal, `git clone git@github.com:Angericky/DeliveryGo.git`
