@@ -7,7 +7,9 @@ A web demo of visualizing path planning developed in google girl hackthon V.
 
 ## Language
 Front end: Vue.js, Vuetify, Webpack, Nodejs, Javascript, html, css 
+
 Back end: Python
+
 Algorithm: C++
 
 
